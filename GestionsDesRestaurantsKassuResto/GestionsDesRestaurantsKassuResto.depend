@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1654314449 source:f:\mes programmes\mes programmes\gestionsdesrestaurantskassuresto\gestiondesrestaurantkassuresto.c
+	"GestionDesRestaurantKassuResto.h"
+	<string.h>
+
+1654312950 f:\mes programmes\mes programmes\gestionsdesrestaurantskassuresto\gestiondesrestaurantkassuresto.h
+	<stdio.h>
+	<stdlib.h>
+
+1654306366 source:f:\mes programmes\mes programmes\gestionsdesrestaurantskassuresto\main.c
+	"GestionDesRestaurantKassuResto.h"
+
